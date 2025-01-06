@@ -6,7 +6,7 @@ My Youtube: https://www.youtube.com/@itzjeo5585
 
 My Discord User: itzjeo
 
-if you use this projecr please credit me
+# *If you use this project please credit me*
 
 # Capibility:
 
@@ -15,10 +15,10 @@ if you use this projecr please credit me
 ![Screenshot_108](https://github.com/user-attachments/assets/00679e75-f075-47f5-b1ef-98c1e63553cd)
 ![Screenshot_65](https://github.com/user-attachments/assets/b327cdd7-10dc-4115-b0a7-8de4ad65c412)
 
+# Credits
+Brulle, helped me with C++ and gave me some Files.
+
 # Legal Credits
 Portions of the materials used are trademarks and or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.
 
-This is a fan made project made for accuratley remaking the game.
-
-# Credits
-Brulle, helped me with C++ and gave me some Files.
+This is a project made for accuratley remaking the game.
