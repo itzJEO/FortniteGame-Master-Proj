@@ -15,6 +15,12 @@ My Discord User: itzjeo
 ![Screenshot_108](https://github.com/user-attachments/assets/00679e75-f075-47f5-b1ef-98c1e63553cd)
 ![Screenshot_65](https://github.com/user-attachments/assets/b327cdd7-10dc-4115-b0a7-8de4ad65c412)
 
+# Things Needed
+
+Visual Studio 2019
+
+Unreal Engine 5.1
+
 # Credits
 Brulle, helped me with C++ and gave me some Files.
 
