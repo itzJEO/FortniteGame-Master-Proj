@@ -3,6 +3,10 @@ This is a fortnite master project made in unreal engine 5. Capable of making For
 ![FortniteGame_-_Unreal_Editor_9_21_2024_4_43_56_PM](https://github.com/user-attachments/assets/0c4bfd67-9149-4ef4-bf5e-ee4242ddc5b4)
 
 My Youtube: https://www.youtube.com/@itzjeo5585
+My Discord User: itzjeo
+My TikTok: https://www.tiktok.com/@glizzygobler.._?lang=en
+
+
 Capability:
 
 ![Screenshot_119](https://github.com/user-attachments/assets/e8478590-c2fd-4493-a655-eff74d0d2c75)
